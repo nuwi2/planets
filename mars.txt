@@ -1,5 +1,1 @@
-Cold and Dry, but everything is my favorite color
--\frac{1}{2}\int_{\Omega} \int_{\Omega}p_{1}(y,x,S(y,x,u))(w(x)-w(y).e_{x-y})w(x).e_{x-y}dxdy ^G
-X
-M-E
--\frac{1}{2}\int_{\Omega} \int_{\Omega}p_{1}(y,x,S(y,x,u))(w(x)-w(y).e_{x-y})w(x).e_{x-y}dxdy \\-\frac{1}{2}\int_{\Omega} \int_{\Omega}p_{2}(y,x,S(y,x,u))(\int_{0}^{t}(w(x)-w(y).e_{x-y})j_{S}'(\sqrt{x-y}S(y,x,u))d\beta)w(x).e_{x-y}dxdy\\
+Cold and Dry, but everything is easy to understand.
